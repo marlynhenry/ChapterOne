@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\BurmaShave\bin\Debug\BurmaShave.pdb
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\BurmaShave\obj\x86\Debug\BurmaShave.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\BurmaShave\obj\x86\Debug\BurmaShave.pdb

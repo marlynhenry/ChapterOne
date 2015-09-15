@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\ChapterOne\bin\Debug\ChapterOne.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\ChapterOne\bin\Debug\ChapterOne.pdb
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\ChapterOne\obj\x86\Debug\ChapterOne.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\ChapterOne\obj\x86\Debug\ChapterOne.pdb

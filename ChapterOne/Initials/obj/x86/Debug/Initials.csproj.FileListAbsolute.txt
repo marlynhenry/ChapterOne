@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Initials\bin\Debug\Initials.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Initials\bin\Debug\Initials.pdb
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Initials\obj\x86\Debug\Initials.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Initials\obj\x86\Debug\Initials.pdb

@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Name\bin\Debug\Name.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Name\bin\Debug\Name.pdb
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Name\obj\x86\Debug\Name.exe
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Name\obj\x86\Debug\Name.pdb
