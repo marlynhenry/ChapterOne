@@ -2,3 +2,4 @@ C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Adress\bin\Debug\Adress.exe
 C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Adress\bin\Debug\Adress.pdb
 C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Adress\obj\x86\Debug\Adress.exe
 C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Adress\obj\x86\Debug\Adress.pdb
+C:\Users\EAHSCS\Desktop\ChapterOne\ChapterOne\Adress\obj\x86\Debug\Adress.csprojResolveAssemblyReference.cache
